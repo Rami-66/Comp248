@@ -75,3 +75,4 @@ System.out.println(" Error: Your recycling Code is not a valid integer between -
 }
 
 }
+// Just a comment to try commiting and pushing on Github via Terminal
